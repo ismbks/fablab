@@ -10,7 +10,9 @@ Prérequis :
 - Git
 - VSCode ou votre éditeur de texte favori
 
-`git clone https://github.com/ismbks/fablab`
-`cd fablab`
-`npm install`
-`npm run docs:dev`
+```bash
+git clone https://github.com/ismbks/fablab
+cd fablab`
+npm install`
+npm run docs:dev
+```
