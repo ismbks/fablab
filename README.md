@@ -20,6 +20,6 @@ cd fablab
 # Installer les dépendances pour Node.js
 npm install
 
-# Lancer le site de développement en local
+# Lancer le site de développement local
 npm run docs:dev
 ```

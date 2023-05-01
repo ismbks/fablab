@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Makerspace MIDO"
   text: "L'atelier numérique de Bliiida"
-  tagline: My great project tagline
+  tagline: Documentation pour les utilisateurs du Fablab
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Lire la documentation
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Réserver une machine
+      link: https://mido.bliiida.fr
 
 features:
   - title: Feature A
